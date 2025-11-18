@@ -6,3 +6,5 @@ Este repositório reúne os materiais utilizados no curso introdutório de Pytho
 O LABMAT é um laboratório de pesquisa dedicado ao desenvolvimento, processamento e caracterização de materiais metálicos e compósitos, atendendo áreas como biomédica, metal-mecânica, aeroespacial, energética e farmacêutica. O ambiente acadêmico e tecnológico do laboratório oferece o contexto ideal para capacitação técnica e aplicação direta dos conhecimentos de programação no suporte a experimentos, análises e investigações científicas.
 
 Este repositório contém notebooks, scripts e tutoriais utilizados durante o curso, incluindo instruções de instalação, exemplos práticos e exercícios orientados para cenários reais de ciência dos materiais.
+
+Instaladores python - https://drive.google.com/drive/folders/1UATeJ7bRdMgmkpLFRvNHyZ5zJVtKtgzd?usp=sharing 
